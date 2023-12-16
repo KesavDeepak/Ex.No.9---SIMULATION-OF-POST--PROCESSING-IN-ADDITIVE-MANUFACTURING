@@ -32,23 +32,14 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
+![284079422-f67184a0-0e07-44bf-9e79-04d5661bdaee](https://github.com/KesavDeepak/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/f99947d9-5364-4a7b-afa3-6f0daff4a2e6)
+![284079450-814e1d8f-3565-424e-be16-0063213962ef](https://github.com/KesavDeepak/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/45bd0c30-78c6-4ce1-b9ab-dfdec42e389d)
+![284079481-42d9c850-c975-4cd2-9c9f-dbba70809fe6](https://github.com/KesavDeepak/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/4b73ef20-7ae7-4b1a-90f7-eaa43bc3b2ab)
+![284079503-26e1e4eb-9b75-4245-a736-beb4185c93cd](https://github.com/KesavDeepak/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/2e4ae9d9-6a8a-4daf-b903-6dc571ec71d2)
+![284079638-e194058c-a296-4002-9e0a-a892414f96e6](https://github.com/KesavDeepak/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139336019/7ef098e2-01a5-4907-84cd-48fd4892286c)
 
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
-
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
-## Output:
-
-### Name:
-### Register Number:
+### Name: KESAV DEEPAK SRIDHARAN
+### Register Number: 23002011
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
